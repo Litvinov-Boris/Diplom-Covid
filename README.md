@@ -1,1 +1,1 @@
-# Diplom-Covid
+covid19-ct-segmentation
